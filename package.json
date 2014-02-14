@@ -1,6 +1,6 @@
 {  
-  "name": "robotfindskitten",
-  "version" : "0.0.1", 
+  "name": "yarfORk",
+  "version" : "0.1", 
   "dependencies" : { 
     "express" : "2.2.0" 
   }
